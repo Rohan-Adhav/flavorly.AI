@@ -27,10 +27,10 @@ A smart and stylish frontend built with **React + Vite**, designed to deliver fa
 ## 📸 Preview
 
 <p align="center">
-  <img src="./flavorly-ui.png" alt="Flavorly.AI UI" width="700"/>
+  <img src="./Screenshot 2025-08-13 164902.png" alt="Flavorly.AI UI" width="700"/>
 </p>
 
-> _Save your screenshot as `flavorly-ui.png` inside an `assets` folder in your project directory._
+
 
 ---
 
