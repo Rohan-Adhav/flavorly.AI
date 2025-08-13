@@ -10,6 +10,9 @@
 A smart and stylish frontend built with **React + Vite**, designed to deliver fast performance and a clean developer experience. This project serves as a foundation for building intelligent UI components and scalable web apps.
 
 📁 **Repo:** [flavorly.AI](https://github.com/Rohan-Adhav/flavorly.AI.git)  
+
+📁 **Live Demo:** [flavorly.AI](https://flavorly-ai-rohan.vercel.app/)  
+
 🛠️ **Tech Stack:** React, Vite, JavaScript, CSS
 
 ---
