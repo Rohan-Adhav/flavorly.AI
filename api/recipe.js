@@ -15,7 +15,7 @@ Format the response in plain text or markdown.
     `.trim();
 
     const payload = {
-      model: "meta-llama/Meta-Llama-3-8B-Instruct",
+      model: "google/gemma-2-9b-it",
       messages: [
         { role: "system", content: SYSTEM_PROMPT },
         { role: "user", content: `I have ${ingredientsString}. Please give me a recipe you'd recommend I make!` }
