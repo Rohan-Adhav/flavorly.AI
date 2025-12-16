@@ -15,7 +15,7 @@ Format the response in plain text or markdown.
     `.trim();
 
     const payload = {
-      model: "mistralai/Mixtral-8x7B-Instruct-v0.1",
+      model: "meta-llama/Meta-Llama-3-8B-Instruct",
       messages: [
         { role: "system", content: SYSTEM_PROMPT },
         { role: "user", content: `I have ${ingredientsString}. Please give me a recipe you'd recommend I make!` }
