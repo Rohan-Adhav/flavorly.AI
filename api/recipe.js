@@ -24,7 +24,8 @@ Format the response in plain text or markdown.
     };
 
     // Call Hugging Face router (server-to-server; no CORS)
-    const hfRes = await fetch("https://api-inference.huggingface.co/v1/chat/completions", {
+    const hfRes = await fetch("https://router.huggingface.co/v1/chat/completions", 
+    {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
